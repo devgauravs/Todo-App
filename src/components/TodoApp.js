@@ -67,7 +67,7 @@ const TodoApp = () => {
 
     return (
         <div className={`app-container ${loading ? 'blur' : ''}`}>
-            <h1>Todo List</h1>
+            <h2>TODO-LIST</h2>
 
 
             <div className="component-container add-todo">
